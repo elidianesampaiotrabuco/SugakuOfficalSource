@@ -1,2 +1,6 @@
-# Note
-This repo is intended for archival purposes only. If dee4 wants this taken down, let me know by sending me a message on X/Twitter.
+# BB+ - The Sugaku Modpack
+Source code of the Sugaku Modpack, created by dee4.
+
+Original repo was taken down, thank god i archived it!
+
+Source code was published by dee4 himself, lmao
